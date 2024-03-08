@@ -13,7 +13,7 @@
             "email": "dadanhidyt@gmail.com"
         }
     ],
-    "minimum-stability": "beta",
+    "minimum-stability": "stable",
     "require": {
         "guzzlehttp/guzzle": "^7.8",
         "vajiral/php-dumpdie": "^0.0.3"
